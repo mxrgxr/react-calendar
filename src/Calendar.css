@@ -1,0 +1,23 @@
+.day {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin: 5px;
+    border-radius: 5px;
+  }
+  
+  .week {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .calendar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
